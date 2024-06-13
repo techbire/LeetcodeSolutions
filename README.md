@@ -35,9 +35,8 @@ LeetCode-DSA-Solutions
 
 ## Solutions
 
-### Example Solutions
-
-- [Count Digits](Easy/Count%20Digits/count-digits.cpp)
+- [0007 - Reverse Integer](0007-reverse-integer/0007-reverse-integer.cpp)
+- [0009 - Palindrome Number](0009-palindrome-number/0009-palindrome-number.cpp)
 
 *Note: Update the solutions list with the actual problems you have solved and their respective file paths.*
 
