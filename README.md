@@ -9,7 +9,6 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 - [Solutions](#solutions)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -38,8 +37,7 @@ LeetCode-DSA-Solutions
 
 ### Example Solutions
 
-- [0007 - Reverse Integer](0007-reverse-integer/0007-reverse-integer.cpp)
-- [0009 - Palindrome Number](0009-palindrome-number/0009-palindrome-number.cpp)
+- [Count Digits](Easy/Count%20Digits/count-digits.cpp)
 
 *Note: Update the solutions list with the actual problems you have solved and their respective file paths.*
 
