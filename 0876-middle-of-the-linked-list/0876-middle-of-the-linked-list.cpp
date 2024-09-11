@@ -11,24 +11,36 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* curr=head;
-        int n=0;
-        while(curr){
-            curr=curr->next;
-            n++;
+        
+        //method-1
+        
+    //  int len=0;
+    //     ListNode* temp=head;
+    //     while(temp!=NULL){
+    //         len++;
+    //         temp=temp->next;
+    //     }
+    //     int midindex=len/2;
+    //     ListNode* mid=head;
+    //     for(int i=1;i<=midindex;i++){
+    //         mid=mid->next;
+    //     }
+    //     return mid;
+        
+    //method-2
+     
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        int f=(n/2);
-        curr=head;
-        while(f--){
-            curr=curr->next;
-
-        }
-        return curr;
+        
+        
+        
+        return slow; 
+        
+        
+        
     }
 };
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
