@@ -22,46 +22,45 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        
-        
-        // Create a dummy node to act as the head of the merged list
-        ListNode* dummy = new ListNode(-1);
-        
-        // Pointer to the current node in the new list
-        ListNode* current = dummy;
-        
-        // Traverse both lists while both are non-empty
-        while (list1 != nullptr && list2 != nullptr) {
-            if (list1->val <= list2->val) {
-                // Attach list1's node to the merged list
-                current->next = list1;
-                // Move list1 pointer forward
-                list1 = list1->next;
-            } else {
-                
-                current->next = list2;
-                // Move list2 pointer forward
-                list2 = list2->next;
-            }
-            // Move the current pointer forward
-            current = current->next;
-        }
-        
-        // If there are remaining nodes in list1, attach them
-        if (list1 != nullptr) {
-            current->next = list1;
-        }
-        
-        // If there are remaining nodes in list2, attach them
-        if (list2 != nullptr) {
-            current->next = list2;
-        }
-        
-        // The merged list starts from the next node after the dummy
-        ListNode* mergedHead = dummy->next;
+        ListNode* temp1 = list1;
+        ListNode* temp2 = list2;
 
-        delete dummy;
-        
-        return mergedHead;
+        ListNode* newList = new ListNode();
+        ListNode* head = newList;
+        ListNode* ans = newList;
+
+        while(temp1 != NULL && temp2 != NULL)
+        {
+            if(temp1-> val < temp2-> val)
+            {
+                ListNode* newNode = new ListNode(temp1-> val);
+                head-> next = newNode;
+                head = head-> next;
+                temp1 = temp1-> next;
+            }
+            else
+            {
+                ListNode* newNode = new ListNode(temp2-> val);
+                head-> next = newNode;
+                head = head-> next;
+                temp2 = temp2-> next;
+            }
+        }
+        while(temp1 != NULL)
+        {
+            ListNode* newNode = new ListNode(temp1-> val);
+            head-> next = newNode;
+            head = head-> next;
+            temp1 = temp1-> next;
+        }
+        while(temp2 != NULL)
+        {
+            ListNode* newNode = new ListNode(temp2-> val);
+            head-> next = newNode;
+            head = head-> next;
+            temp2 = temp2-> next;
+        }
+        head = ans-> next;
+        return head;
     }
 };
