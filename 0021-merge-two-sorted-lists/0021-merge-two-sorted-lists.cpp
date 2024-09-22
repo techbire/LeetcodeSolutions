@@ -21,46 +21,32 @@
 
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* temp1 = list1;
-        ListNode* temp2 = list2;
+    ListNode* mergeTwoLists(ListNode* first, ListNode* second) {
+        // Create a dummy node
+        ListNode* dummy = new ListNode(-1); // Use ListNode instead of Node<int>
+        ListNode* temp = dummy;
 
-        ListNode* newList = new ListNode();
-        ListNode* head = newList;
-        ListNode* ans = newList;
-
-        while(temp1 != NULL && temp2 != NULL)
-        {
-            if(temp1-> val < temp2-> val)
-            {
-                ListNode* newNode = new ListNode(temp1-> val);
-                head-> next = newNode;
-                head = head-> next;
-                temp1 = temp1-> next;
-            }
-            else
-            {
-                ListNode* newNode = new ListNode(temp2-> val);
-                head-> next = newNode;
-                head = head-> next;
-                temp2 = temp2-> next;
+        // Traverse both lists and merge them
+        while (first != nullptr && second != nullptr) {
+            if (first->val < second->val) {
+                temp->next = first;
+                temp = first;
+                first = first->next;
+            } else {
+                temp->next = second;
+                temp = second;
+                second = second->next;
             }
         }
-        while(temp1 != NULL)
-        {
-            ListNode* newNode = new ListNode(temp1-> val);
-            head-> next = newNode;
-            head = head-> next;
-            temp1 = temp1-> next;
+
+        // Attach the remaining nodes from either list
+        if (first != nullptr) {
+            temp->next = first;
+        } else {
+            temp->next = second;
         }
-        while(temp2 != NULL)
-        {
-            ListNode* newNode = new ListNode(temp2-> val);
-            head-> next = newNode;
-            head = head-> next;
-            temp2 = temp2-> next;
-        }
-        head = ans-> next;
-        return head;
+
+        // Return the merged list starting from dummy's next
+        return dummy->next;
     }
 };
