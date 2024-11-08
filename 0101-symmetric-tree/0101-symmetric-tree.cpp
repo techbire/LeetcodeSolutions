@@ -12,7 +12,7 @@
 class Solution {
 public:
     bool helper(TreeNode* left, TreeNode* right){
-        if(left==nullptr&&right==nullptr)return true;
+        if(left==nullptr && right==nullptr)return true;
         if (left == nullptr || right == nullptr) return false;
         if(left->val!=right->val)return false;
             return helper(left->left, right->right) && helper(left->right, right->left);
@@ -20,8 +20,8 @@ public:
     
     
     bool isSymmetric(TreeNode* root) {
-    if (root == nullptr) return true;return helper(root->left, root->right);
-    // return root==nullptr||helper(root->left,root->right);
+    
+    return root==nullptr||helper(root->left,root->right);
     }
 };
 
