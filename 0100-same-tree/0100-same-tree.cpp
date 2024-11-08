@@ -17,15 +17,23 @@ public:
         if(p!=nullptr && q==nullptr)return false;
         if(p->val!=q->val)return false;
         
-        bool left=isSameTree(p->left,q->left);
-        if(left==false)return false;
+//         bool left=isSameTree(p->left,q->left);
+//         if(left==false)return false;
         
         
-       bool right=isSameTree(p->right,q->right);
-        if(right==false)return false;
+//        bool right=isSameTree(p->right,q->right);
+//         if(right==false)return false;
         
-        return true;
+//         return true;
         
         
+//     }
+// };
+        
+        bool left = isSameTree(p->left, q->left);
+        bool right = isSameTree(p->right, q->right);
+        
+        // Return true only if both subtrees match
+        return left && right;
     }
 };
