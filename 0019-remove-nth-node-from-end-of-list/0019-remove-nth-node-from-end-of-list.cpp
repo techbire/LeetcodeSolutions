@@ -22,7 +22,7 @@ public:
         int index=m-1;
         temp=head;
         for(int i=1;i<=index-1;i++){
-            temp =temp->next;
+            temp=temp->next;
         }
         temp->next=temp->next->next;
         return head;
