@@ -10,6 +10,7 @@ Happy coding!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/techbire/LeetcodeSolutions/tree/master/0012-integer-to-roman) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +35,12 @@ Happy coding!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
+## Greedy
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 <!---LeetCode Topics End-->
