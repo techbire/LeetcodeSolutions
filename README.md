@@ -19,6 +19,7 @@ Happy coding!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/techbire/LeetcodeSolutions/tree/master/0012-integer-to-roman) |
+| [2887-sort-vowels-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -43,4 +44,8 @@ Happy coding!
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
