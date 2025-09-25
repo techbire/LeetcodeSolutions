@@ -60,6 +60,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [1006-vowel-spellchecker](https://github.com/techbire/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2023-design-movie-rental-system) |
@@ -120,4 +121,8 @@ Happy coding!
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
