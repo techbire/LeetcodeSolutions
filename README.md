@@ -61,6 +61,7 @@ Happy coding!
 |  |
 | ------- |
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
+| [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [1006-vowel-spellchecker](https://github.com/techbire/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2023-design-movie-rental-system) |
@@ -70,10 +71,12 @@ Happy coding!
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Brainteaser
 |  |
@@ -112,6 +115,7 @@ Happy coding!
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [3827-implement-router](https://github.com/techbire/LeetcodeSolutions/tree/master/3827-implement-router) |
 ## Queue
 |  |
@@ -121,6 +125,7 @@ Happy coding!
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
 |  |
 | ------- |
