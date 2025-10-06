@@ -54,6 +54,7 @@ Happy coding!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [2023-design-movie-rental-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/techbire/LeetcodeSolutions/tree/master/3678-design-task-manager) |
@@ -68,6 +69,7 @@ Happy coding!
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/techbire/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/techbire/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
@@ -129,6 +131,7 @@ Happy coding!
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [3827-implement-router](https://github.com/techbire/LeetcodeSolutions/tree/master/3827-implement-router) |
 ## Queue
 |  |
@@ -162,12 +165,19 @@ Happy coding!
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 ## Matrix
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
