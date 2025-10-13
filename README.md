@@ -69,6 +69,7 @@ Happy coding!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
@@ -156,6 +157,7 @@ Happy coding!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
