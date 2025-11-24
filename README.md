@@ -81,6 +81,7 @@ Happy coding!
 | [0830-largest-triangle-area](https://github.com/techbire/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/techbire/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/techbire/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/techbire/LeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/techbire/LeetcodeSolutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -220,4 +221,8 @@ Happy coding!
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/techbire/LeetcodeSolutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
