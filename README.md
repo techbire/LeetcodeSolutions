@@ -22,6 +22,7 @@ Happy coding!
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3623-count-number-of-trapezoids-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/techbire/LeetcodeSolutions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/techbire/LeetcodeSolutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/techbire/LeetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -39,6 +40,7 @@ Happy coding!
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
+| [3623-count-number-of-trapezoids-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Happy coding!
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3623-count-number-of-trapezoids-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/techbire/LeetcodeSolutions/tree/master/3827-implement-router) |
 ## Greedy
@@ -194,6 +197,7 @@ Happy coding!
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/techbire/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
+| [3623-count-number-of-trapezoids-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## Simulation
 |  |
 | ------- |
