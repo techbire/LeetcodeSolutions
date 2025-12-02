@@ -57,6 +57,7 @@ Happy coding!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0061-rotate-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Happy coding!
 | ------- |
 | [0011-container-with-most-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
