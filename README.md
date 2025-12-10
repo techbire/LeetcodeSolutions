@@ -22,6 +22,7 @@ Happy coding!
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3583-count-special-triplets](https://github.com/techbire/LeetcodeSolutions/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/techbire/LeetcodeSolutions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/techbire/LeetcodeSolutions/tree/master/3827-implement-router) |
@@ -106,6 +107,7 @@ Happy coding!
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/techbire/LeetcodeSolutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/techbire/LeetcodeSolutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3583-count-special-triplets](https://github.com/techbire/LeetcodeSolutions/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -145,6 +147,7 @@ Happy coding!
 |  |
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3583-count-special-triplets](https://github.com/techbire/LeetcodeSolutions/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/techbire/LeetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
