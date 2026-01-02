@@ -9,6 +9,7 @@ Happy coding!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/techbire/LeetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/techbire/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/techbire/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -92,6 +93,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/techbire/LeetcodeSolutions/tree/master/0066-plus-one) |
