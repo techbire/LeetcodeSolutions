@@ -41,6 +41,7 @@ Happy coding!
 | [0830-largest-triangle-area](https://github.com/techbire/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/techbire/LeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/techbire/LeetcodeSolutions/tree/master/1390-four-divisors) |
 | [1925-count-square-sum-triples](https://github.com/techbire/LeetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -109,6 +110,7 @@ Happy coding!
 | [1018-binary-prefix-divisible-by-5](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/techbire/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/techbire/LeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/techbire/LeetcodeSolutions/tree/master/1390-four-divisors) |
 | [1612-avoid-flood-in-the-city](https://github.com/techbire/LeetcodeSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2023-design-movie-rental-system) |
