@@ -14,6 +14,7 @@ Happy coding!
 | [0013-roman-to-integer](https://github.com/techbire/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/techbire/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0756-pyramid-transition-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0756-pyramid-transition-matrix) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/techbire/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1006-vowel-spellchecker](https://github.com/techbire/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/techbire/LeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/techbire/LeetcodeSolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -259,6 +260,7 @@ Happy coding!
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/techbire/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/techbire/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/techbire/LeetcodeSolutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/techbire/LeetcodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -267,6 +269,7 @@ Happy coding!
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/techbire/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/techbire/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -295,6 +298,7 @@ Happy coding!
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/techbire/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/techbire/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/techbire/LeetcodeSolutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/techbire/LeetcodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -309,6 +313,7 @@ Happy coding!
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/techbire/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/techbire/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/techbire/LeetcodeSolutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
