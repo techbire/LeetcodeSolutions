@@ -58,6 +58,7 @@ Happy coding!
 | [0013-roman-to-integer](https://github.com/techbire/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/techbire/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/techbire/LeetcodeSolutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/techbire/LeetcodeSolutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/techbire/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
@@ -231,6 +232,7 @@ Happy coding!
 | ------- |
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techbire/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/techbire/LeetcodeSolutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/techbire/LeetcodeSolutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/techbire/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/techbire/LeetcodeSolutions/tree/master/1458-max-dot-product-of-two-subsequences) |
