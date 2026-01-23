@@ -26,6 +26,7 @@ Happy coding!
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/techbire/LeetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/techbire/LeetcodeSolutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/techbire/LeetcodeSolutions/tree/master/3606-coupon-code-validator) |
@@ -77,6 +78,7 @@ Happy coding!
 | [0023-merge-k-sorted-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0061-rotate-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Happy coding!
 | [2054-two-best-non-overlapping-events](https://github.com/techbire/LeetcodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/techbire/LeetcodeSolutions/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
@@ -131,6 +134,7 @@ Happy coding!
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/techbire/LeetcodeSolutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/techbire/LeetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/techbire/LeetcodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/techbire/LeetcodeSolutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -206,6 +210,7 @@ Happy coding!
 | [2023-design-movie-rental-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/techbire/LeetcodeSolutions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/techbire/LeetcodeSolutions/tree/master/3827-implement-router) |
 ## Binary Search
@@ -258,6 +263,7 @@ Happy coding!
 | [2324-find-triangular-sum-of-an-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3336-water-bottles-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
@@ -330,4 +336,5 @@ Happy coding!
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
