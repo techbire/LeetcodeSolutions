@@ -131,6 +131,7 @@ Happy coding!
 | [2324-find-triangular-sum-of-an-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/techbire/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/techbire/LeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -159,6 +160,7 @@ Happy coding!
 | [1018-largest-perimeter-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/techbire/LeetcodeSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/techbire/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/techbire/LeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -170,6 +172,7 @@ Happy coding!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/techbire/LeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2054-two-best-non-overlapping-events](https://github.com/techbire/LeetcodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/techbire/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2887-sort-vowels-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/techbire/LeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -226,6 +229,7 @@ Happy coding!
 | [1612-avoid-flood-in-the-city](https://github.com/techbire/LeetcodeSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-two-best-non-overlapping-events](https://github.com/techbire/LeetcodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/techbire/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3827-implement-router](https://github.com/techbire/LeetcodeSolutions/tree/master/3827-implement-router) |
