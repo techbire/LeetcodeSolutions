@@ -128,6 +128,7 @@ Happy coding!
 | [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/techbire/LeetcodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2305-fair-distribution-of-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -260,6 +261,7 @@ Happy coding!
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/techbire/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/techbire/LeetcodeSolutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/techbire/LeetcodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2305-fair-distribution-of-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/2305-fair-distribution-of-cookies) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/techbire/LeetcodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/techbire/LeetcodeSolutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -319,6 +321,7 @@ Happy coding!
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2305-fair-distribution-of-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/2305-fair-distribution-of-cookies) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Enumeration
 |  |
@@ -340,6 +343,7 @@ Happy coding!
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0756-pyramid-transition-matrix) |
+| [2305-fair-distribution-of-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Binary Tree
 |  |
 | ------- |
@@ -355,4 +359,8 @@ Happy coding!
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/techbire/LeetcodeSolutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
