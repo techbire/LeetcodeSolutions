@@ -24,6 +24,7 @@ Happy coding!
 | [2023-design-movie-rental-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -93,6 +94,7 @@ Happy coding!
 | [2023-design-movie-rental-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/techbire/LeetcodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/techbire/LeetcodeSolutions/tree/master/3678-design-task-manager) |
@@ -135,6 +137,7 @@ Happy coding!
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/techbire/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/techbire/LeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/techbire/LeetcodeSolutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -338,6 +341,7 @@ Happy coding!
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/techbire/LeetcodeSolutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/techbire/LeetcodeSolutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Backtracking
 |  |
