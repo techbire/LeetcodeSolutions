@@ -33,6 +33,7 @@ Happy coding!
 | [3606-coupon-code-validator](https://github.com/techbire/LeetcodeSolutions/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/techbire/LeetcodeSolutions/tree/master/3678-design-task-manager) |
+| [3713-longest-balanced-substring-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3827-implement-router](https://github.com/techbire/LeetcodeSolutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/techbire/LeetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -75,6 +76,7 @@ Happy coding!
 | [2887-sort-vowels-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/techbire/LeetcodeSolutions/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/techbire/LeetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -204,6 +206,7 @@ Happy coding!
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/techbire/LeetcodeSolutions/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/techbire/LeetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -341,6 +344,7 @@ Happy coding!
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/techbire/LeetcodeSolutions/tree/master/1925-count-square-sum-triples) |
+| [3713-longest-balanced-substring-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
 |  |
 | ------- |
