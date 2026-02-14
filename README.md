@@ -271,6 +271,7 @@ Happy coding!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techbire/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/techbire/LeetcodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/techbire/LeetcodeSolutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/techbire/LeetcodeSolutions/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/techbire/LeetcodeSolutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/techbire/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/techbire/LeetcodeSolutions/tree/master/1458-max-dot-product-of-two-subsequences) |
