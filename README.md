@@ -149,6 +149,7 @@ Happy coding!
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/techbire/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2751-robot-collisions](https://github.com/techbire/LeetcodeSolutions/tree/master/2751-robot-collisions) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/techbire/LeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -194,6 +195,7 @@ Happy coding!
 | [2054-two-best-non-overlapping-events](https://github.com/techbire/LeetcodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/techbire/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2751-robot-collisions](https://github.com/techbire/LeetcodeSolutions/tree/master/2751-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/techbire/LeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -221,6 +223,7 @@ Happy coding!
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/techbire/LeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2751-robot-collisions](https://github.com/techbire/LeetcodeSolutions/tree/master/2751-robot-collisions) |
 ## Number Theory
 |  |
 | ------- |
@@ -301,6 +304,7 @@ Happy coding!
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/techbire/LeetcodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/techbire/LeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2751-robot-collisions](https://github.com/techbire/LeetcodeSolutions/tree/master/2751-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/techbire/LeetcodeSolutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
