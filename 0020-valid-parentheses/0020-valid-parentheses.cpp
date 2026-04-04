@@ -1,21 +1,16 @@
 class Solution {
 public:
     bool isValid(string s) {
-    //logic-last opened then first to be closed
-    stack<char>st;
-    for(char ch:s){
-        if(ch=='('||ch=='['||ch=='{'){
-            st.push(ch);
+        stack<char> st;
+
+        for(char ch : s) {
+            if(ch == '(') st.push(')');
+            else if(ch == '{') st.push('}');
+            else if(ch == '[') st.push(']');
+            else if(st.empty() || st.top() != ch) return false;
+            else st.pop();
         }
-        else{
-            if(st.empty())return false;
-            char top=st.top();
-            st.pop();
-        if (ch == ')' && top != '(') return false;
-                    if (ch == ']' && top != '[') return false;
-                    if (ch == '}' && top != '{') return false;
-                }
-            }
-            return st.empty();
+
+        return st.empty();
     }
 };
