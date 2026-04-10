@@ -35,6 +35,7 @@ Happy coding!
 | [3678-design-task-manager](https://github.com/techbire/LeetcodeSolutions/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3827-implement-router](https://github.com/techbire/LeetcodeSolutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/techbire/LeetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -173,6 +174,7 @@ Happy coding!
 | [3643-flip-square-submatrix-vertically](https://github.com/techbire/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/techbire/LeetcodeSolutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/techbire/LeetcodeSolutions/tree/master/3827-implement-router) |
 ## Greedy
