@@ -419,4 +419,8 @@ Happy coding!
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/techbire/LeetcodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/techbire/LeetcodeSolutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
