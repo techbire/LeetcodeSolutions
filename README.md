@@ -81,6 +81,7 @@ Happy coding!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/techbire/LeetcodeSolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/techbire/LeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/techbire/LeetcodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/techbire/LeetcodeSolutions/tree/master/2000-reverse-prefix-of-word) |
 | [2211-count-collisions-on-a-road](https://github.com/techbire/LeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/techbire/LeetcodeSolutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -232,6 +233,7 @@ Happy coding!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techbire/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/techbire/LeetcodeSolutions/tree/master/2000-reverse-prefix-of-word) |
 | [2211-count-collisions-on-a-road](https://github.com/techbire/LeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2751-robot-collisions](https://github.com/techbire/LeetcodeSolutions/tree/master/2751-robot-collisions) |
@@ -283,6 +285,7 @@ Happy coding!
 | [0061-rotate-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
+| [2000-reverse-prefix-of-word](https://github.com/techbire/LeetcodeSolutions/tree/master/2000-reverse-prefix-of-word) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/techbire/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
