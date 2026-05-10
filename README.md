@@ -159,6 +159,7 @@ Happy coding!
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/techbire/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/techbire/LeetcodeSolutions/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/techbire/LeetcodeSolutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/techbire/LeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -303,6 +304,7 @@ Happy coding!
 | [1458-max-dot-product-of-two-subsequences](https://github.com/techbire/LeetcodeSolutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/techbire/LeetcodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2305-fair-distribution-of-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/2305-fair-distribution-of-cookies) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/techbire/LeetcodeSolutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/techbire/LeetcodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/techbire/LeetcodeSolutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
