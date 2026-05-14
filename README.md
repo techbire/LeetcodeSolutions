@@ -13,6 +13,7 @@ Happy coding!
 | [0012-integer-to-roman](https://github.com/techbire/LeetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/techbire/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/techbire/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/techbire/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0756-pyramid-transition-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/techbire/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1006-vowel-spellchecker](https://github.com/techbire/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
@@ -73,6 +74,7 @@ Happy coding!
 | [0072-edit-distance](https://github.com/techbire/LeetcodeSolutions/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/techbire/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/techbire/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/techbire/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/techbire/LeetcodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/techbire/LeetcodeSolutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -205,6 +207,7 @@ Happy coding!
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/techbire/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/techbire/LeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
