@@ -450,6 +450,7 @@ Happy coding!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/techbire/LeetcodeSolutions/tree/master/0175-combine-two-tables) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/techbire/LeetcodeSolutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/techbire/LeetcodeSolutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Binary Search Tree
 |  |
