@@ -21,6 +21,7 @@ Happy coding!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/techbire/LeetcodeSolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/techbire/LeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/techbire/LeetcodeSolutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/techbire/LeetcodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
@@ -155,6 +156,7 @@ Happy coding!
 | [1458-max-dot-product-of-two-subsequences](https://github.com/techbire/LeetcodeSolutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/techbire/LeetcodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/techbire/LeetcodeSolutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/techbire/LeetcodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/techbire/LeetcodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/techbire/LeetcodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/techbire/LeetcodeSolutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -387,6 +389,7 @@ Happy coding!
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/techbire/LeetcodeSolutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/techbire/LeetcodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/techbire/LeetcodeSolutions/tree/master/1871-jump-game-vii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/techbire/LeetcodeSolutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3546-equal-sum-grid-partition-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3546-equal-sum-grid-partition-i) |
