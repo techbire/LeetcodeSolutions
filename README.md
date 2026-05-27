@@ -30,6 +30,7 @@ Happy coding!
 | [2784-check-if-array-is-good](https://github.com/techbire/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -94,6 +95,7 @@ Happy coding!
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/techbire/LeetcodeSolutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/techbire/LeetcodeSolutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
