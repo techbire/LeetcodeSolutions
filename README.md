@@ -141,6 +141,7 @@ Happy coding!
 | [0001-two-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/techbire/LeetcodeSolutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/techbire/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/techbire/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
@@ -310,6 +311,7 @@ Happy coding!
 | ------- |
 | [0011-container-with-most-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/techbire/LeetcodeSolutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
