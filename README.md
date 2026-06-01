@@ -145,6 +145,7 @@ Happy coding!
 | [0033-search-in-rotated-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/techbire/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/techbire/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techbire/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -324,6 +325,7 @@ Happy coding!
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/techbire/LeetcodeSolutions/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techbire/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/techbire/LeetcodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
