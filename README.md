@@ -145,6 +145,7 @@ Happy coding!
 | [0033-search-in-rotated-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/techbire/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/techbire/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/techbire/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techbire/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -227,6 +228,7 @@ Happy coding!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/techbire/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/techbire/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
@@ -317,6 +319,7 @@ Happy coding!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/techbire/LeetcodeSolutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/techbire/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [2000-reverse-prefix-of-word](https://github.com/techbire/LeetcodeSolutions/tree/master/2000-reverse-prefix-of-word) |
