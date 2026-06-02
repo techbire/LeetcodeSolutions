@@ -205,6 +205,7 @@ Happy coding!
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/techbire/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/techbire/LeetcodeSolutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -225,6 +226,7 @@ Happy coding!
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/techbire/LeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -246,6 +248,7 @@ Happy coding!
 | [3531-count-covered-buildings](https://github.com/techbire/LeetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/techbire/LeetcodeSolutions/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -306,6 +309,7 @@ Happy coding!
 | [2540-minimum-common-value](https://github.com/techbire/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3827-implement-router](https://github.com/techbire/LeetcodeSolutions/tree/master/3827-implement-router) |
 ## Queue
 |  |
@@ -326,6 +330,7 @@ Happy coding!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/techbire/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/techbire/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
