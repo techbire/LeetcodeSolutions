@@ -1,6 +1,8 @@
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
+        //rotate=transpose+reversing
+        
         int n=matrix.size();
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
@@ -21,6 +23,6 @@ public:
            i++;j--; }
         }
         
-        
+        //reversing the row done
     }
 };
