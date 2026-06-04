@@ -29,6 +29,7 @@ Happy coding!
 | [2540-minimum-common-value](https://github.com/techbire/LeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/techbire/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
+| [2965-find-missing-and-repeated-values](https://github.com/techbire/LeetcodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -65,6 +66,7 @@ Happy coding!
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techbire/LeetcodeSolutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2965-find-missing-and-repeated-values](https://github.com/techbire/LeetcodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
@@ -189,6 +191,7 @@ Happy coding!
 | [2751-robot-collisions](https://github.com/techbire/LeetcodeSolutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/techbire/LeetcodeSolutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/techbire/LeetcodeSolutions/tree/master/2784-check-if-array-is-good) |
+| [2965-find-missing-and-repeated-values](https://github.com/techbire/LeetcodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/techbire/LeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -412,6 +415,7 @@ Happy coding!
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/techbire/LeetcodeSolutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2965-find-missing-and-repeated-values](https://github.com/techbire/LeetcodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3546-equal-sum-grid-partition-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/techbire/LeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Union Find
