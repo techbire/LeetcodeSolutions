@@ -152,6 +152,7 @@ Happy coding!
 | [0118-pascals-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techbire/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/techbire/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -301,6 +302,7 @@ Happy coding!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/techbire/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
@@ -330,6 +332,7 @@ Happy coding!
 | [0075-sort-colors](https://github.com/techbire/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
+| [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [2000-reverse-prefix-of-word](https://github.com/techbire/LeetcodeSolutions/tree/master/2000-reverse-prefix-of-word) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/techbire/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -431,6 +434,7 @@ Happy coding!
 | ------- |
 | [0067-add-binary](https://github.com/techbire/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/techbire/LeetcodeSolutions/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0756-pyramid-transition-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2305-fair-distribution-of-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/2305-fair-distribution-of-cookies) |
