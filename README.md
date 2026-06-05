@@ -14,6 +14,7 @@ Happy coding!
 | [0013-roman-to-integer](https://github.com/techbire/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/techbire/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/techbire/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/techbire/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/techbire/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0756-pyramid-transition-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/techbire/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -118,6 +119,7 @@ Happy coding!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/techbire/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/techbire/LeetcodeSolutions/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
@@ -154,6 +156,7 @@ Happy coding!
 | [0118-pascals-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techbire/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/techbire/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
@@ -239,6 +242,7 @@ Happy coding!
 | ------- |
 | [0075-sort-colors](https://github.com/techbire/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/techbire/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/techbire/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
@@ -269,6 +273,7 @@ Happy coding!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/techbire/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techbire/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/techbire/LeetcodeSolutions/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
