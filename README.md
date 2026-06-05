@@ -55,6 +55,7 @@ Happy coding!
 | [0012-integer-to-roman](https://github.com/techbire/LeetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/techbire/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/techbire/LeetcodeSolutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/techbire/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/techbire/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/techbire/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/techbire/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -353,6 +354,7 @@ Happy coding!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/techbire/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/techbire/LeetcodeSolutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
@@ -394,6 +396,7 @@ Happy coding!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/techbire/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/techbire/LeetcodeSolutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Depth-First Search
