@@ -151,6 +151,7 @@ Happy coding!
 | [0048-rotate-image](https://github.com/techbire/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/techbire/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/techbire/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/techbire/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
@@ -310,6 +311,7 @@ Happy coding!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/techbire/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -417,6 +419,7 @@ Happy coding!
 | ------- |
 | [0048-rotate-image](https://github.com/techbire/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/techbire/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/techbire/LeetcodeSolutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
