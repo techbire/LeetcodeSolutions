@@ -119,6 +119,7 @@ Happy coding!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/techbire/LeetcodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/techbire/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -533,6 +534,7 @@ Happy coding!
 | ------- |
 | [0002-add-two-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/techbire/LeetcodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/techbire/LeetcodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Database
