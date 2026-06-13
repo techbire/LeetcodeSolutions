@@ -179,6 +179,7 @@ Happy coding!
 | [0169-majority-element](https://github.com/techbire/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/techbire/LeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/techbire/LeetcodeSolutions/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/techbire/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
