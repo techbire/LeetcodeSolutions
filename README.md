@@ -19,6 +19,7 @@ Happy coding!
 | [0160-intersection-of-two-linked-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/techbire/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/techbire/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/techbire/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0756-pyramid-transition-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/techbire/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -64,6 +65,7 @@ Happy coding!
 | [0066-plus-one](https://github.com/techbire/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/techbire/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/techbire/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/techbire/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/techbire/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/techbire/LeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -378,6 +380,7 @@ Happy coding!
 | [0142-linked-list-cycle-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/0455-assign-cookies) |
