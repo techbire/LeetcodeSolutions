@@ -167,6 +167,7 @@ Happy coding!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/techbire/LeetcodeSolutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/techbire/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/techbire/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/techbire/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
@@ -520,6 +521,7 @@ Happy coding!
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/0090-subsets-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [2305-fair-distribution-of-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/2305-fair-distribution-of-cookies) |
