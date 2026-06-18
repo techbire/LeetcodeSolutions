@@ -184,6 +184,7 @@ Happy coding!
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techbire/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/techbire/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/techbire/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -348,6 +349,7 @@ Happy coding!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/techbire/LeetcodeSolutions/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
@@ -484,6 +486,7 @@ Happy coding!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/techbire/LeetcodeSolutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/techbire/LeetcodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/techbire/LeetcodeSolutions/tree/master/1871-jump-game-vii) |
@@ -522,6 +525,7 @@ Happy coding!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/techbire/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/techbire/LeetcodeSolutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1871-jump-game-vii](https://github.com/techbire/LeetcodeSolutions/tree/master/1871-jump-game-vii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/techbire/LeetcodeSolutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
