@@ -15,6 +15,7 @@ Happy coding!
 | [0013-roman-to-integer](https://github.com/techbire/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/techbire/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/techbire/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/techbire/LeetcodeSolutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/techbire/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/techbire/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -95,6 +96,7 @@ Happy coding!
 | [0067-add-binary](https://github.com/techbire/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/techbire/LeetcodeSolutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/techbire/LeetcodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/techbire/LeetcodeSolutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/techbire/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/techbire/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/techbire/LeetcodeSolutions/tree/master/0242-valid-anagram) |
@@ -187,6 +189,7 @@ Happy coding!
 | [0118-pascals-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techbire/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/techbire/LeetcodeSolutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/techbire/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
@@ -413,6 +416,7 @@ Happy coding!
 | [0120-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techbire/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/techbire/LeetcodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/techbire/LeetcodeSolutions/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/techbire/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/techbire/LeetcodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/techbire/LeetcodeSolutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -601,4 +605,12 @@ Happy coding!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/techbire/LeetcodeSolutions/tree/master/0493-reverse-pairs) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/techbire/LeetcodeSolutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/techbire/LeetcodeSolutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
