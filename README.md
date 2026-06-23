@@ -151,6 +151,7 @@ Happy coding!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/techbire/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/techbire/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/techbire/LeetcodeSolutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/techbire/LeetcodeSolutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -289,6 +290,7 @@ Happy coding!
 | [0088-merge-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/techbire/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/techbire/LeetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/techbire/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
@@ -340,6 +342,7 @@ Happy coding!
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/techbire/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [2023-design-movie-rental-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/techbire/LeetcodeSolutions/tree/master/3678-design-task-manager) |
@@ -400,6 +403,7 @@ Happy coding!
 | [0202-happy-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/techbire/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
@@ -615,4 +619,8 @@ Happy coding!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/techbire/LeetcodeSolutions/tree/master/0139-word-break) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/techbire/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
