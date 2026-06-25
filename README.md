@@ -23,6 +23,7 @@ Happy coding!
 | [0169-majority-element](https://github.com/techbire/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/techbire/LeetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/techbire/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/techbire/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/techbire/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -199,6 +200,7 @@ Happy coding!
 | [0455-assign-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/techbire/LeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/techbire/LeetcodeSolutions/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/techbire/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/techbire/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
@@ -331,6 +333,7 @@ Happy coding!
 | ------- |
 | [0020-valid-parentheses](https://github.com/techbire/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/techbire/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/techbire/LeetcodeSolutions/tree/master/2000-reverse-prefix-of-word) |
 | [2211-count-collisions-on-a-road](https://github.com/techbire/LeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/techbire/LeetcodeSolutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -623,4 +626,8 @@ Happy coding!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/techbire/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/techbire/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
