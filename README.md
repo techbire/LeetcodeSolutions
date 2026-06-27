@@ -212,6 +212,7 @@ Happy coding!
 | [0830-largest-triangle-area](https://github.com/techbire/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/techbire/LeetcodeSolutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/techbire/LeetcodeSolutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0994-rotting-oranges](https://github.com/techbire/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/techbire/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/techbire/LeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -491,6 +492,7 @@ Happy coding!
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/techbire/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/techbire/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/techbire/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -501,6 +503,7 @@ Happy coding!
 | [0074-search-a-2d-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/techbire/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/techbire/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/techbire/LeetcodeSolutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2965-find-missing-and-repeated-values](https://github.com/techbire/LeetcodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3546-equal-sum-grid-partition-i](https://github.com/techbire/LeetcodeSolutions/tree/master/3546-equal-sum-grid-partition-i) |
