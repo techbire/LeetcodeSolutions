@@ -335,6 +335,7 @@ Happy coding!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techbire/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/techbire/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/techbire/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/techbire/LeetcodeSolutions/tree/master/2000-reverse-prefix-of-word) |
@@ -349,6 +350,7 @@ Happy coding!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/techbire/LeetcodeSolutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/techbire/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/techbire/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [2023-design-movie-rental-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/techbire/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
