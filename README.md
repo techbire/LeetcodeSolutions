@@ -95,6 +95,7 @@ Happy coding!
 | [0003-longest-substring-without-repeating-characters](https://github.com/techbire/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/techbire/LeetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/techbire/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/techbire/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/techbire/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/techbire/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/techbire/LeetcodeSolutions/tree/master/0072-edit-distance) |
@@ -177,6 +178,7 @@ Happy coding!
 | ------- |
 | [0001-two-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/techbire/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/techbire/LeetcodeSolutions/tree/master/0031-next-permutation) |
@@ -638,6 +640,7 @@ Happy coding!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/techbire/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/techbire/LeetcodeSolutions/tree/master/0139-word-break) |
 ## Memoization
 |  |
