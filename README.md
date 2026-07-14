@@ -211,6 +211,7 @@ Happy coding!
 | [0540-single-element-in-a-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/techbire/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/techbire/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/techbire/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/techbire/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
@@ -385,6 +386,7 @@ Happy coding!
 | [0493-reverse-pairs](https://github.com/techbire/LeetcodeSolutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/techbire/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/techbire/LeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/techbire/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/techbire/LeetcodeSolutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
