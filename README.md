@@ -107,6 +107,7 @@ Happy coding!
 | [0166-fraction-to-recurring-decimal](https://github.com/techbire/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/techbire/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/techbire/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/techbire/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/techbire/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/techbire/LeetcodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/techbire/LeetcodeSolutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -432,6 +433,7 @@ Happy coding!
 | [0234-palindrome-linked-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/techbire/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/techbire/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/techbire/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/techbire/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
@@ -452,6 +454,7 @@ Happy coding!
 | [0131-palindrome-partitioning](https://github.com/techbire/LeetcodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/techbire/LeetcodeSolutions/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/techbire/LeetcodeSolutions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/techbire/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/techbire/LeetcodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/techbire/LeetcodeSolutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/techbire/LeetcodeSolutions/tree/master/0799-champagne-tower) |
