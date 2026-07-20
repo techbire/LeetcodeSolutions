@@ -388,6 +388,7 @@ Happy coding!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/techbire/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/techbire/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/techbire/LeetcodeSolutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/techbire/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/techbire/LeetcodeSolutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/techbire/LeetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -667,4 +668,8 @@ Happy coding!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/techbire/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/techbire/LeetcodeSolutions/tree/master/0901-online-stock-span) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/techbire/LeetcodeSolutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
